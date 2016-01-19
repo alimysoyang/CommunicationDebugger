@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  CommunicationDebugger
+
+  Created by alimysoyang on 15/9/2.
+  Copyright © 2015年 alimysoyang. All rights reserved.
+*/
+
+IconReceived = "R";
+IconSend = "S";
+
+Done = "Done";
+Send = "Send";
+OK = "OK";
+Cancel = "Cancel";
+YES = "YES";
+NO = "NO";
+Reset = "Reset";
+Connecting = "Connecting...";
+Delete = "Delete";
+Copy = "Copy";
+Server = "Server";
+Client = "Client";
+Edit = "Edit";
+Settings = "Settings";
+ReceivedDataUnkown = "Received data can not be resolved";
+SendedDataValideAddress = "Invalid address";
+SendedDataError = "Data error";
+DeleteMessage = "Are you sure you want to delete all of the communication data?";
+Cleanup = "Cleanup complete";
+NetworkDisconnected = "Network is disconnected";
+
+RemoteIPAndPort = "Remote IP & Port:%@";
+ListenerPort = "Listener Port:%i";
+
+RemoteIP = "Remote IP";
+RemotePort = "Remote Port";
+LocalIP = "Local IP";
+LocalPort = "Local Port";
+SendedDataType = "Hex Data(Sended)";
+ReceivedDataType = "Hex Data(Received)";
+SendedCharacetSet = "Sended Character set";
+ReceivedCharacetSet = "Received Character set";
+
+TitleServiceType = "Please select service type";
+TitleLatestSettings = "Use the latest settings?";
+
+Information = "Information";
+TipPort = "Please enter a valid port number(1~65535)";
+TipIPAddress = "Please enter a valid IP address(xxx.xxx.xxx.xxx)";
+
+ServerStartedSuccess = "%@ server started on port:%i";
+ServerClosed = "!## server closed ##!";
+ClientStartedSuccess = "%@ client ready for remote:%@";
+PortBingError = "started %@ (bind):%@";
+BeginReceivedError = "started %@ (recv):%@";
+TcpConnectedSuccess = "%@ tcp server connected";
+TcpConnectedFailed = "%@ tcp server connected failed:%@";
+TcpConnectionInterrupted = "%@ tcp server connection is interrupted:%@";
+ServerConnecting = "connecting %@ server...";
+TcpNewAcceptSocket = "new accept:%@";
+
+NVParamsSettingTitle = "Setting";
+UnkownIP = "unkown ip address";
+
+ClearCache = "Clear cache";
+SaveLogs = "Save logs";
+Version = "Version";
+Email = "Email";
+About = "About";
+OpenSource = "Open Source Libraries";
+

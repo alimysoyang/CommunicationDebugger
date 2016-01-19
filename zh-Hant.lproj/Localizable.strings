@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  CommunicationDebugger
+
+  Created by alimysoyang on 15/9/2.
+  Copyright © 2015年 alimysoyang. All rights reserved.
+*/
+
+IconReceived = "收";
+IconSend = "發";
+
+Done = "完成";
+Send = "發送";
+OK = "確定";
+Cancel = "取消";
+YES = "是";
+NO = "否";
+Reset = "重置";
+Connecting = "連接中...";
+Delete = "刪除";
+Copy = "拷貝";
+Server = "服務端";
+Client = "客戶端";
+Edit = "編輯";
+Settings = "設置";
+ReceivedDataUnkown = "數據無法解析";
+SendedDataValideAddress = "發送數據地址無效";
+SendedDataError = "發送數據無效";
+DeleteMessage = "確定刪除所有的通訊數據?";
+Cleanup = "清理完成";
+NetworkDisconnected = "世界上最遙遠的距離就是沒有網絡";
+
+RemoteIPAndPort = "遠程地址和端口:%@";
+ListenerPort = "監聽端口:%i";
+
+RemoteIP = "遠程地址";
+RemotePort = "遠程端口";
+LocalIP="本地地址";
+LocalPort = "本地端口";
+SendedDataType ="16進制發";
+ReceivedDataType ="16進制收";
+SendedCharacetSet ="發送字符集";
+ReceivedCharacetSet ="接收字符集";
+
+TitleServiceType = "請選擇";
+TitleLatestSettings = "使用上一次的參數設置?";
+
+Information = "提示";
+TipPort = "請輸入有效端口號(1~65535)";
+TipIPAddress = "請輸入合法的IP地址(xxx.xxx.xxx.xxx)";
+
+ServerStartedSuccess = "%@ 服務端監聽端口:%i";
+ServerClosed = "!## 服務端關閉 ##!";
+ClientStartedSuccess = "%@ 客戶端準備就緒(%@)";
+PortBingError = "%@啟動(監聽端口綁定失敗):%@";
+BeginReceivedError = "%@啟動(接收錯誤):%@";
+TcpConnectedSuccess = "%@ 已連接TCP服務端";
+TcpConnectedFailed = "%@ 連接TCP服務端失敗:%@";
+TcpConnectionInterrupted = "%@ 連接TCP服務端中斷:%@";
+ServerConnecting = "正在連接%@服務端...";
+TcpNewAcceptSocket = "最新接入TCP客戶端:%@";
+
+NVParamsSettingTitle = "參數設置";
+UnkownIP = "未知IP";
+
+ClearCache = "清理緩存";
+SaveLogs = "保存通訊數據";
+Version = "版本號";
+Email = "Email";
+About = "關於";
+OpenSource = "開源庫";
