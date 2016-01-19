@@ -4,7 +4,8 @@
 App Store : https://itunes.apple.com/cn/app/wang-luo-tong-xun-diao-shi-qi/id682270868?mt=8
 
 
-Based Swift2.1, adopted with some Objective-C code mixed manner
+Based Swift2.1, adopted with some Objective-C code mixed manner.
+
 Network communication debugger is a set of UDP, TCP, and client service for the integration of tools app, applicable to all types need to debug network communications engineers or technicians, the following describes an app's main features and use.
 All return all pages using gestures sliding back, in addition to the "Help" page using the Back button
 
