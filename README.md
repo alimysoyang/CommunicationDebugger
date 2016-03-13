@@ -17,3 +17,7 @@ All return all pages using gestures sliding back, in addition to the "Help" page
 【全面】UDP、TCP、服务端、客户端，基本网络通讯所需的都包含了
 【简单】简单的参数配置，可以让你调试各种情况下的通讯数据
 此应用也可以在广域网上使用，需要各位给路由上绑定设置中的端口方可通讯
+
+
+# Screenshots
+![image](https://github.com/alimysoyang/CommunicationDebugger/raw/master/Screenshots/20160111163128197.png)
