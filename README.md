@@ -21,3 +21,5 @@ All return all pages using gestures sliding back, in addition to the "Help" page
 
 # Screenshots
 ![image](https://github.com/alimysoyang/CommunicationDebugger/raw/master/Screenshots/20160111163128197.png)
+![image](https://github.com/alimysoyang/CommunicationDebugger/raw/master/Screenshots/20160111163233262.png)
+![image](https://github.com/alimysoyang/CommunicationDebugger/raw/master/Screenshots/20160111163323433.png)
